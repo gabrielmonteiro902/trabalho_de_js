@@ -1,0 +1,47 @@
+body {
+    margin: auto 0;
+    background: rgb(73, 73, 73);
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cont h2 {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cont1 {
+    position: relative;
+    top: 120px;
+    right: 300px;
+    bottom: 120px;
+    left: 470px;
+}
+
+.cont {
+    max-width: 400px;
+    background: rgb(rgb(0, 0, 0), green, blue);
+    padding: 10px;
+    font-size: 30px;
+    border-radius: 15px;
+    border: solid 1px black;
+}
+
+.cont button {
+    font-size: 20px;
+    border-radius: 8px;
+    background: blueviolet;
+    border: 1px rgb(73, 73, 73);
+    cursor: pointer;
+}
+
+.cont input {
+    font-size: 17px;
+    border-radius: 8px;
+    background: #fff;
+    border: solid 1px rgb(73, 73, 73);
+}
